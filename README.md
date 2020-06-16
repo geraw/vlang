@@ -14,10 +14,9 @@
 ## Usage
 
 Run the compiler like so:
-
-    ````
-    v hw.v
-    ````
+````
+v hw.v
+````
 This will generate an executable file called `hw` that prints the string `'Hello World'`.
 
 
